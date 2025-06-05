@@ -1,3 +1,13 @@
+> fork by https://github.com/lmm214/memos-bber，兼容 Firefox/Chrome
+Firefox 应用商店：<>
+
+打包方法：
+
+```
+zip -r memos-bber-firefox.zip manifest.json _locales assets css js popup.html LICENSE README.md
+```
+
+---
 ## 说明
 
 Chrome 应用商店：<https://chrome.google.com/webstore/detail/memos-bber/cbhjebjfccgchgbmfbobjmebjjckgofe/>
