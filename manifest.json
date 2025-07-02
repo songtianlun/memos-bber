@@ -2,7 +2,7 @@
    "manifest_version": 3,
    "name": "__MSG_extName__",
    "default_locale": "en",
-   "version": "0.1.250605",
+   "version": "0.1.250702",
    "browser_specific_settings": {
       "gecko": {
          "id": "memos-bber@frytea.com",
